@@ -8,8 +8,7 @@ This project calculates core orbital mechanics values for any planet or star, in
 
 **Built with:** C++ (CS 001 course foundations)  
 **Applications:** Club outreach demos, astrophysics self-study, and research preparation.  
-**Motivation:** Created as part of my ongoing self-guided learning for research internships at  
-Carnegie Observatories and NASA JPL.  
+**Motivation:** Created as part of my ongoing self-guided learning for research internships, as well as personal discovery
 
 > “I wanted to bridge the math I learned in physics and calculus with code and create a project that mixes scientific knowledge with creative direction.”
 
